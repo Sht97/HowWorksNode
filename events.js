@@ -36,4 +36,4 @@ server.on('request',(req,res)=>{
 
 server.on('close',()=>console.log("Server closed"));
 
-server.listen(3000,()=>console.log("Waiting for request..."))
+server.listen(3000,()=>console.log("Waiting for request..."));
