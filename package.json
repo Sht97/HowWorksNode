@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Daniel Rivera Danielf.r97@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^5.2.1"
+  }
 }
